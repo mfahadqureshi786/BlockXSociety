@@ -1,0 +1,1 @@
+Challenge 6: Create a smart contract to generate hash of pair of addresses.
